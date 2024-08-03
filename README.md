@@ -18,3 +18,12 @@ If the EAR is below a threshold for a continuous period, the system triggers an 
 Beverage Recommendation:
 
 4. Recommends beverages based on the drowsiness level detected.
+
+# Build With
+
+1. OpenCV - Open source computer vision and machine learning software library.
+2. dlib - Toolkit for making real world machine learning and data analysis applications.
+3. Tkinter - Python's standard GUI package.
+4. Pygame - A set of Python modules designed for writing video games.
+5. NumPy - A fundamental package for scientific computing with Python.
+6. imutils - A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and both Python 2.7 and Python 3.
